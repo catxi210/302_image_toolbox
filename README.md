@@ -11,8 +11,10 @@ This is the open-source version of the [AI Image Toolbox](https://302.ai/tools/p
 
 
 ## Interface Preview
+You can upload pictures or input descriptions, choose a model to generate pictures and then conduct picture processing. Multiple picture processing functions are available for selection.
+![pic-tool](docs/en/pic-tool.png)    
 
-![pic-tool](docs/en/pic-tool.png)
+Taking the background removal function as an example, based on the uploaded pictures, the AI automatically identifies the background and removes it.
 ![pic-tool](docs/en/图片工具箱1.png)
 
 ## Project Features
