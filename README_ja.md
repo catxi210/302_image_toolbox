@@ -33,9 +33,9 @@
 ## 開発&デプロイ
 
 1. プロジェクトをクローン `git clone git@github.com:302ai/302_image_toolbox.git`
-2. 依存関係をインストール `pnpm install`
+2. 依存関係をインストール `npm install`
 3. 302のAPI KEYを設定 `.env.example`を参照
-4. プロジェクトを実行 `pnpm dev`
+4. プロジェクトを実行 `npm dev`
 5. パッケージングとデプロイ `docker build -t image_toolbox . && docker run -p 3000:3000 image_toolbox`
 
 ## インターフェースプレビュー
