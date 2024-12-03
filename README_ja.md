@@ -15,7 +15,7 @@
 ![pic-tool](docs/ja/pic-tool.png)     
 
 背景除去機能を例にとると、アップロードした画像に基づいて、AI が自動的に背景を識別して除去します。
-![pic-tool](docs/ja/图片工具箱1.png)
+![pic-tool](docs/ja/图片工具箱日1.png)
 
 
 ## プロジェクトの特徴
