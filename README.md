@@ -15,7 +15,7 @@ You can upload pictures or input descriptions, choose a model to generate pictur
 ![pic-tool](docs/en/pic-tool.png)    
 
 Taking the background removal function as an example, based on the uploaded pictures, the AI automatically identifies the background and removes it.
-![pic-tool](docs/en/图片工具箱1.png)
+![pic-tool](docs/en/图片工具箱英1.png)
 
 ## Project Features
 
