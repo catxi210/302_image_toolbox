@@ -1,28 +1,40 @@
-# 🎬🤖 Welcome to the AI Image Toolbox! 🚀✨
+# <p align="center">🖼️ AI Image Toolbox 🚀✨</p>
 
-[中文](README_zh.md) | [English](README.md) | [日本語](README_ja.md)
+<p align="center">The AI image toolbox offers a variety of rich AI image processing functions and also enables continuous chained operations.</p>
+
+<p align="center"><a href="https://302.ai/tools/word/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/badge/21212.png" /></a></p >
+
+<p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
+
 
 This is the open-source version of the [AI Image Toolbox](https://302.ai/tools/pictool/) from [302.AI](https://302.ai). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
 
-## ✨ Introduction to 302.AI ✨
 
-[302.AI](https://302.ai) is a pay-as-you-go AI application platform that solves the last mile problem of AI for practical use.
+## Interface Preview
 
-1. 🧠 It aggregates the latest and most comprehensive AI capabilities and brands, including but not limited to language models, image models, sound models, and video models.
-2. 🚀 Deep application development on basic models, we develop real AI products, not simple chatbots.
-3. 💰 Zero monthly fee, all features are pay-as-you-go, fully open, achieving genuinely low barriers and high ceilings.
-4. 🛠 Powerful management backend, aimed at teams and small to medium-sized enterprises, managed by one person, used by many.
-5. 🔗 All AI capabilities provide API access, all tools can be self-customized (in progress).
-6. 💡 A strong development team launching 2-3 new applications weekly, with daily product updates. Developers interested in joining are welcome to contact us.
+![pic-tool](docs/en/pic-tool.png)
+![pic-tool](docs/en/图片工具箱1.png)
 
 ## Project Features
 
-1. 🎥 **AI Image Toolbox**: Supports various image operations, including extended functionality like text to image and image to video.
-2. 🖼️ **Comprehensive Features**: Supports over ten functions such as image cropping/expanding/modifying/enlarging/coloring/face changing/filters.
-3. 🔄 **Task Management**: Tasks support regeneration, chained tool calls, historical rollback for re-editing.
-4. ⚙️ **Multi-Model Support**: Choose from various models to generate images and videos.
-5. 📜 **History Records**: Save your creative history, memory never lost, downloadable anytime, anywhere.
-6. 🌐 **Internationalization**: Supports multiple languages, currently Chinese, English, and Japanese.
+### 🎥 AI Image Toolbox
+It supports a variety of image operations, including the extended functions of generating images from text and converting images into videos.
+### 🖼️ All-inclusive Functions
+It includes functions such as background removal, object elimination, background replacement, image vectorization, image enlargement, super image enlargement, colorizing black-and-white images, AI face swapping, image expansion, image modification, generating images from existing images, generating images from drafts, image cropping, image color adjustment, image splicing, and portrait filters.
+### 🔄 Task Management
+Tasks support regeneration, chained tool calls, historical rollback for re-editing.
+### ⚙️ Multi-Model Support
+You can choose various models to generate images and videos.
+### 📜 History Records
+Save your creative history, memory never lost, downloadable anytime, anywhere.
+### 🌍 Multi-language Support
+- Chinese Interface
+- English Interface
+- Japanese Interface
+
+## 🚩 Future Update Plans
+- [ ] Add functions such as special effects, image restoration, and image composition
+
 
 ## Technology Stack
 
@@ -38,6 +50,14 @@ This is the open-source version of the [AI Image Toolbox](https://302.ai/tools/p
 4. Run the project `pnpm dev`
 5. Build and deploy `docker build -t image_toolbox . && docker run -p 3000:3000 image_toolbox`
 
-## Interface Preview
 
-![pic-tool](docs/zh/pic-tool.png)
+## ✨ Introduction to 302.AI ✨
+
+[302.AI](https://302.ai) is a pay-as-you-go AI application platform that solves the last mile problem of AI for practical use.
+
+1. 🧠 It aggregates the latest and most comprehensive AI capabilities and brands, including but not limited to language models, image models, sound models, and video models.
+2. 🚀 Deep application development on basic models, we develop real AI products, not simple chatbots.
+3. 💰 Zero monthly fee, all features are pay-as-you-go, fully open, achieving genuinely low barriers and high ceilings.
+4. 🛠 Powerful management backend, aimed at teams and small to medium-sized enterprises, managed by one person, used by many.
+5. 🔗 All AI capabilities provide API access, all tools can be self-customized (in progress).
+6. 💡 A strong development team launching 2-3 new applications weekly, with daily product updates. Developers interested in joining are welcome to contact us.
