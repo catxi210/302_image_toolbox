@@ -35,7 +35,7 @@
 1. 克隆项目 `git clone git@github.com:302ai/302_image_toolbox.git`
 2. 安装依赖 `npm install`
 3. 配置302的API KEY 参考.env.example
-4. 运行项目 `npm dev`
+4. 运行项目 `npm run dev`
 5. 打包部署 `docker build -t image-toolbox . && docker run -p 3000:3000 image-toolbox`
 
 ## 界面预览

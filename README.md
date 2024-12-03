@@ -35,7 +35,7 @@ This is the open-source version of the [AI Image Toolbox](https://302.ai/tools/p
 1. Clone the project `git clone git@github.com:302ai/302_image_toolbox.git`
 2. Install dependencies `npm install`
 3. Configure the 302 API KEY by referring to .env.example
-4. Run the project `npm dev`
+4. Run the project `npm run dev`
 5. Build and deploy `docker build -t image_toolbox . && docker run -p 3000:3000 image_toolbox`
 
 ## Interface Preview
