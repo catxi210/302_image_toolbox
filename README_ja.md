@@ -6,6 +6,7 @@
 
 <p align="center"><a href="README zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
+![pic-tool](docs/图片工具箱jp.png) 
 
 これは[302.AI](https://302.ai)の[AI画像ツールボックス](https://302.ai/tools/pictool/)オープンソース版です。302.AIに直接ログインし、コード不要でオンライン版を使用するか、自分のニーズに合わせて変更して自分でデプロイすることができます。
 
