@@ -8,7 +8,7 @@
 
 ![pic-tool](docs/图片工具箱en.png)   
 
-This is the open-source version of the [AI Image Toolbox](https://302.ai/tools/pictool/) from [302.AI](https://302.ai). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
+This is the open-source version of the [AI Image Toolbox](https://302.ai/en/tools/pictool/) from [302.AI](https://302.ai). You can directly log in to 302.AI to use the online version with zero code and zero background, or modify and deploy it yourself according to your requirements.
 
 
 ## Interface Preview
