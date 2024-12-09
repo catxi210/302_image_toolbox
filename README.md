@@ -56,7 +56,7 @@ Save your creative history, memory never lost, downloadable anytime, anywhere.
 
 ## ✨ Introduction to 302.AI ✨
 
-[302.AI](https://302.ai) is a pay-as-you-go AI application platform that solves the last mile problem of AI for practical use.
+[302.AI](https://302.ai) is an enterprise-oriented AI application platform that offers pay-as-you-go services, ready-to-use solutions, and an open-source ecosystem.✨
 
 1. 🧠 It aggregates the latest and most comprehensive AI capabilities and brands, including but not limited to language models, image models, sound models, and video models.
 2. 🚀 Deep application development on basic models, we develop real AI products, not simple chatbots.
