@@ -2,7 +2,7 @@
 
 <p align="center">AI图片工具箱提供了各种丰富的AI处理图片功能，还可以连续进行链式操作。</p>
 
-<p align="center"><a href="https://302.ai/tools/pictool/" target="blank"><img src="https://file.302ai.cn/gpt/imgs/github/302_badge.png" /></a></p >
+<p align="center"><a href="https://302.ai/tools/pictool/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
