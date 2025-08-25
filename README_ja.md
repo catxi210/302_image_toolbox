@@ -2,13 +2,13 @@
 
 <p align="center">AI 画像ツールボックスは、さまざまな豊富な AI 画像処理機能を提供し、連続的なチェーン操作も可能です。</p>
 
-<p align="center"><a href="https://302.ai/ja/tools/pictool/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://302.ai/product/detail/29" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![pic-tool](docs/图片工具箱jp.png) 
 
-これは[302.AI](https://302.ai/ja/)の[AI画像ツールボックス](https://302.ai/ja/tools/pictool/)オープンソース版です。302.AIに直接ログインし、コード不要でオンライン版を使用するか、自分のニーズに合わせて変更して自分でデプロイすることができます。
+これは[302.AI](https://302.ai/ja/)の[AI画像ツールボックス](https://302.ai/product/detail/29)オープンソース版です。302.AIに直接ログインし、コード不要でオンライン版を使用するか、自分のニーズに合わせて変更して自分でデプロイすることができます。
 
 
 ## インターフェースプレビュー
